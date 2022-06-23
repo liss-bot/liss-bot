@@ -1,9 +1,8 @@
-<p align="center"><img width="120" src="https://i.ibb.co/z4JgSgB/Liss-bot-profile.png" /></p>
 
-### Hello! 👋
-Right now, I'm helping out with:
-- [Dashy](https://github.com/lissy93/dashy)
-- [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)
-- [Twitter Sentiment Visualisation](https://github.com/Lissy93/twitter-sentiment-visualisation)
-
-
+<p align="center">
+  <a href="https://github.com/lissy93">
+    <img width="450" src="https://readme-typing-svg.herokuapp.com?color=C4045D&width=450&height=50&lines=Hello+%F0%9F%91%8B;I'm+%40Liss-Bot...;and+I'm+automating+things" />
+    <br />
+    <img width="450" src="https://i.ibb.co/tPyHW9d/liss-bot-comic-style.png" />
+  </a>
+</p>
